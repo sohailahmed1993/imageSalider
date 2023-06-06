@@ -42,3 +42,6 @@ img{
     font-size: 25px;
     color: white;
 }
+.slide{
+    display: none;
+}
